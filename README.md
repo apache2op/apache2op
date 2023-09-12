@@ -2,5 +2,5 @@
 - 👀 Likes to make and play games
 - 🌱 Undergrad College Student
 - 👨‍💼 [LinkedIn](https://www.linkedin.com/in/ayush-das-860866201/)
-- 🔰 [MyAnimeList](https://myanimelist.net/animelist/apache2op)
-- 🐱‍💻 [Leetcode](https://leetcode.com/apache2op/)
+- 💻 [Portfolio](https://apache2op.github.io/CODSOFT/Portfolio/)
+- 😸 [Leetcode](https://leetcode.com/apache2op/)
