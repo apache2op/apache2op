@@ -5,7 +5,7 @@
 
 - 🔭 My Website - [ayushdas.site](https://apache2op.github.io/CODSOFT/Portfolio/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/apache2op](https://github.com/apache2op)
+- 👨‍💻 All of my projects are available at [github.com/apache2op](https://github.com/apache2op)
 
 - 📫 How to reach me **contact.dasayush503@gmail.com**
 
