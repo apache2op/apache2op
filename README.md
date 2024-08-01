@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for **Software Developer Engineer** jobs
 
-- 🔭 My Website - [ayushdas.site](https://apache2op.github.io/CODSOFT/Portfolio/)
+- 💻 My Website - [ayushdas.site](https://apache2op.github.io/CODSOFT/Portfolio/)
 
 - 👨‍💻 All of my projects are available at [github.com/apache2op](https://github.com/apache2op)
 
