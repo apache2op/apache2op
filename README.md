@@ -14,6 +14,7 @@
 
 <a href="https://www.linkedin.com/in/ayushdxs/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/ayushdxs/" /></a>
 <a href="https://instagram.com/ayushdxs" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="https://instagram.com/ayushdxs" /></a>
+<a href="http://discordapp.com/users/634953768634417161" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="http://discordapp.com/users/634953768634417161" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
