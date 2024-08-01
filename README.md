@@ -29,7 +29,7 @@
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/634953768634417161)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/634953768634417161)](https://dev.discordprofiles.me/openspotify/634953768634417161)
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM?si=a17f499dcad34872)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lw734bh7zgizzp5abhrr63krqi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31lw734bh7zgizzp5abhrr63krqi&redirect=true)
 
 <details>
   <summary>Github Stats ⚡</summary>
