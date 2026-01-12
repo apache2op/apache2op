@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Ayush</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apache2op&label=Profile%20views&color=0e75b6&style=flat" alt="apache2op" /> </p>
 
-- 🔭 I’m currently looking for **Software Developer Engineer** jobs
+- 🔭 I’m currently looking for **Software Developer** jobs
 
 - 💻 My Website - [ayushdas.site](https://apache2op.github.io/CODSOFT/Portfolio/)
 
