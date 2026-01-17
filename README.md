@@ -7,7 +7,7 @@
 
 - 👨‍💻 Currently learning - React.js
 
-- 📫 How to reach me **[dasayush503@gmail.com](dasayush503@gmail.com)**
+- 📫 How to reach me **contact.dasayush503@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
