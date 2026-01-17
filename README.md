@@ -7,7 +7,7 @@
 
 - 👨‍💻 Currently learning - React.js
 
-- 📫 How to reach me **contact.dasayush503@gmail.com**
+- 📫 How to reach me **[dasayush503@gmail.com](contact.dasayush503@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,6 +31,8 @@
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=apache2op&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apache2op&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+![](https://github-readme-stats.vercel.app/api?username=apache2op&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=apache2op&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=apache2op&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 </details>
