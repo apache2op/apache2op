@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for **Software Developer** jobs
 
-- 💻 My Website - [ayushdas.site](https://apache2op.github.io/CODSOFT/Portfolio/)
+- 💻 My Website - [ayushdxs.site](https://apache2op.github.io/portfolioV2/)
 
 - 👨‍💻 Currently learning - React.js
 
@@ -13,7 +13,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/ayushdxs/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/ayushdxs/" /></a>
-<a href="https://instagram.com/ayushdxs" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="https://instagram.com/ayushdxs" /></a>
+<a href="https://instagram.com/apache2op" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="https://instagram.com/apache2op" /></a>
 <a href="https://discordid.netlify.app/?id=634953768634417161" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="https://discordid.netlify.app/?id=634953768634417161" /></a>
 </p>
 
