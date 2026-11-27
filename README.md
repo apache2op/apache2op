@@ -1,13 +1,13 @@
-<h1 align="center">👋 Hi, I'm Ayush</h1>
+<h1 align="center">Hi there, I'm Ayush</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apache2op&label=Profile%20views&color=0e75b6&style=flat" alt="apache2op" /> </p>
 
-- 🔭 I’m currently looking for **Software Developer** jobs
+- I’m currently working with AEM
 
-- 💻 My Website - [ayushdxs.site](https://apache2op.github.io/portfolioV2/)
+- My Website - [ayushdxs.site](https://apache2op.github.io/portfolioV2/)
 
-- 👨‍💻 Currently learning - React.js
+- Currently learning - Rust
 
-- 📫 How to reach me **dasayush503@gmail.com**
+- How to reach me **dasayush503@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
