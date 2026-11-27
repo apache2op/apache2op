@@ -33,7 +33,7 @@
 
 <!-- <h3 align="left">Currently Listening:</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lw734bh7zgizzp5abhrr63krqi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile) -->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lw734bh7zgizzp5abhrr63krqi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile) 
 
 <details>
   <summary>github stats</summary>
@@ -41,4 +41,4 @@
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apache2op&theme=transparent)
 
-</details>
+</details> -->
