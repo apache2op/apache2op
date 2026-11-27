@@ -1,9 +1,8 @@
-hi there, i'm [ayush](https://apache2op.github.io/portfolioV2/)
+## hi there, i'm [ayush](https://apache2op.github.io/portfolioV2/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apache2op&label=Profile%20views&color=0e75b6&style=flat" alt="apache2op" /> </p>
 
 - currently working as an AEM developer [@Bluethink](https://www.bluethinkinc.com/)
-- currently learning - Rust
-- How to reach me **dasayush503@gmail.com**
+- currently learning Rust
 
 <h3 align="left">available on these:
 <p align="left">
