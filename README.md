@@ -4,16 +4,7 @@
 - currently working as an AEM developer [@Bluethink](https://www.bluethinkinc.com/)
 - currently learning Rust
 
-available on these:
-  <a href="https://www.linkedin.com/in/ayushdxs/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/apache2op" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square" alt="Instagram" />
-  </a>
-  <a href="https://discordid.netlify.app/?id=634953768634417161" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=flat-square" alt="Discord" />
-  </a>
+available on these: <a href="https://www.linkedin.com/in/ayushdxs/"><img align="absmiddle" height="24" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a> <a href="https://instagram.com/apache2op"><img align="absmiddle" height="24" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square" alt="Instagram" /></a> <a href="https://discordid.netlify.app/?id=634953768634417161"><img align="absmiddle" height="24" src="https://img.shields.io/badge/Discord-5865F2?style=flat-square" alt="Discord" /></a>
 
 languages and tools used:
 <p align="left">
