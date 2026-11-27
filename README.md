@@ -1,24 +1,21 @@
-<h1 align="center">hi there, i'm ayush</h1>
+<h1 align="center">hi there, i'm [ayush](https://apache2op.github.io/portfolioV2/)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apache2op&label=Profile%20views&color=0e75b6&style=flat" alt="apache2op" /> </p>
 
-- I’m currently working with AEM
-
-- My Website - [ayushdxs.site](https://apache2op.github.io/portfolioV2/)
-
-- Currently learning - Rust
+- currently working as an AEM developer [@Bluethink](https://www.bluethinkinc.com/)
+- currently learning - Rust
 
 - How to reach me **dasayush503@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ayushdxs/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/apache2op" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" alt="Instagram" />
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square" alt="Instagram" />
   </a>
   <a href="https://discordid.netlify.app/?id=634953768634417161" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge" alt="Discord" />
+    <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=flat-square" alt="Discord" />
   </a>
 </p>
 
@@ -32,6 +29,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Rust-A0522D?style=flat-square" alt="Rust" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square" alt="Git" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square" alt="MySQL" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square" alt="VS Code" />
