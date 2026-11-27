@@ -4,7 +4,7 @@
 - currently working as an AEM developer [@Bluethink](https://www.bluethinkinc.com/)
 - currently learning Rust
 
-<h3 align="left">available on these:
+available on these:
 <p align="left">
   <a href="https://www.linkedin.com/in/ayushdxs/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" />
@@ -16,9 +16,8 @@
     <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=flat-square" alt="Discord" />
   </a>
 </p>
-</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+languages and tools used:
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square" alt="C++" />
