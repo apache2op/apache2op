@@ -5,7 +5,6 @@
 - currently learning Rust
 
 available on these:
-<p align="left">
   <a href="https://www.linkedin.com/in/ayushdxs/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" />
   </a>
@@ -15,7 +14,6 @@ available on these:
   <a href="https://discordid.netlify.app/?id=634953768634417161" target="blank">
     <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=flat-square" alt="Discord" />
   </a>
-</p>
 
 languages and tools used:
 <p align="left">
