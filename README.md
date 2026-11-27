@@ -3,7 +3,7 @@
   <img align="right" height="24" src="https://komarev.com/ghpvc/?username=apache2op&label=Profile%20views&color=0e75b6&style=flat" alt="apache2op" />
 </h3>
 
-- currently working as an AEM developer [@Bluethink](https://www.bluethinkinc.com/)
+- currently working as an AEM developer at [Bluethink](https://www.bluethinkinc.com/)
 - currently learning Rust
 
 available on these: <a href="mailto:dasayush503@gmail.com"><img align="absmiddle" height="24" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square" alt="Gmail" /></a>
@@ -29,12 +29,12 @@ languages and tools used:
 <img align="absmiddle" height="24" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square" alt="Ubuntu" />
 <img align="absmiddle" height="24" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square" alt="Windows" />
 
-<h3 align="left">Currently Listening:</h3>
+<!-- <h3 align="left">Currently Listening:</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lw734bh7zgizzp5abhrr63krqi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lw734bh7zgizzp5abhrr63krqi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile) -->
 
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary>github stats</summary>
   <br>
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apache2op&theme=transparent)
