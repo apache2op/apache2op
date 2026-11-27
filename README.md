@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ayush</h1>
+<h1 align="center">hi there, i'm ayush</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apache2op&label=Profile%20views&color=0e75b6&style=flat" alt="apache2op" /> </p>
 
 - I’m currently working with AEM
